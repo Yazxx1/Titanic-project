@@ -6,4 +6,4 @@ The data includes information about each passenger like their age, gender, ticke
 
 ## 📁 Files
 - `titanic.csv` — the data
-- `titanic_simple.py` — the code
+- `titanic.ipynp` — the code
